@@ -1,0 +1,10 @@
+"bindings": {
+  "/actions/default": {
+    "sources": [
+      {
+        "mode": "button",
+        "path": "/user/hand/right/input/a"
+      }
+    ]
+  }
+}

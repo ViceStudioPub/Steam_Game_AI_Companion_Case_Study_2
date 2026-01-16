@@ -1,0 +1,1 @@
++exec "start /min python steam_companion.py" %command%
