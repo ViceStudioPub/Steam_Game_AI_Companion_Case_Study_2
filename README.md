@@ -284,3 +284,4 @@ Steam_AI_Analyn_Companion/
    echo Setup complete! Run: python steam_analyn_companion.py
    pause
    ```
+<img width="1333" height="739" alt="image" src="https://github.com/user-attachments/assets/b5575572-8297-4b10-80de-1a8eab3c1315" />
